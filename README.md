@@ -1,0 +1,2 @@
+# JQSlider
+ jQuery Slider
